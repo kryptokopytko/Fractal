@@ -1,1 +1,3 @@
 # Fractal
+
+Mandelbrot fractal generator
